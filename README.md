@@ -31,7 +31,7 @@ The project uses SQLAlchemy for ORM and Alembic for database migrations.
 1. **Clone the Repository**
 
    ```sh
-   git clone <repository-url>
+   git clone [https://github.com/Mikemunene16/concerts]
    cd concerts-challenge
    ```
 
