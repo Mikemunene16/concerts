@@ -75,7 +75,7 @@ The project uses SQLAlchemy for ORM and Alembic for database migrations.
 
 3. **Run Tests**
 
-   Press run python file button in vs code to run test data
+   Click the app.py file then press run python file button in vs code to run test data
  ```
 
 ## Methods and Usage
